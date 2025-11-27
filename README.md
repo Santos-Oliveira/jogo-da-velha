@@ -1,8 +1,7 @@
 # Jogo da Velha React
 
 Um Jogo da Velha desenvolvido em React com Vite, incluindo:
-
-- Jogo contra IA (Minimax)  
+ 
 - Placar de vitórias  
 - Botão de reiniciar  
 - Destaque das casas vencedoras  
